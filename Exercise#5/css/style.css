@@ -1,0 +1,14 @@
+#head{
+	background-color: yellow;
+	text-align: center;
+}
+
+#topics{
+	border-left: solid;
+	border-color: green;
+	align-content: center;
+}
+
+#menu{
+	align-items: left;
+}

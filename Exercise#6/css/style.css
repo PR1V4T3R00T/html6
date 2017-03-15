@@ -1,0 +1,37 @@
+section{
+	border-style: solid;
+	border-color: blue;
+	margin: auto;
+}
+
+#title{
+	text-align: center;
+}
+
+#navbar{
+	text-align: center;
+}
+
+#sidebar{
+	text-align: center;
+}
+
+aside{
+	display: inline-block;
+	vertical-align: top;
+	text-align: left;
+}
+
+#news{
+	padding-right: 30px;
+	border-right: solid;
+	border-color: blue;
+}
+
+#announcements{
+	padding-left: 30px;
+}
+
+footer{
+	text-align: center;
+}
